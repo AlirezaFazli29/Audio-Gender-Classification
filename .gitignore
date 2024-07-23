@@ -1,2 +1,2 @@
 *.gz
-
+/extracted_files/*
