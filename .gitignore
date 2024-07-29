@@ -1,2 +1,4 @@
 *.gz
 /extracted_files/*
+features_df.csv
+
